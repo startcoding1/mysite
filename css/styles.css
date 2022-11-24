@@ -1,0 +1,33 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+img {
+  width: 100%;
+}
+.top-container {
+  background-color: #C4D7E0;
+}
+
+.mountain{
+width:80%;
+}
+
+.center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width:30%;
+}
+
+.centered {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:80%;
+}
